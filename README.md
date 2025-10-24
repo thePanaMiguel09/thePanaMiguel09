@@ -15,7 +15,7 @@ Javascript, HTML, CSS...
 
 ## Certificados de Idioma
 
-Soy una persona con la capacidad de entener y transmitir ideas de forma clara y consiza en inglés. Actualmente me encutro finalizando el nivel B1. 
+Soy una persona con la capacidad de entener y transmitir ideas de forma clara y consiza en inglés. Actualmente me encuentro finalizando el nivel B1. 
 
 [Certificado Inglés A1](https://github.com/thePanaMiguel09/thePanaMiguel09/blob/main/Miguel%20Angel%20Chavez%20Barrera%20A1.pdf)
 
