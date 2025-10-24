@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**thePanaMiguel09/thePanaMiguel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://github.com/thePanaMiguel09/thePanaMiguel09/blob/main/myBanner.png?raw=true)
+# Hola! mi nombre es Miguel Ángel. 
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería de Sistemas, desarrollador Web y Móvil con conocimientos en Fronted y Backend. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+## Certificados de Idioma
+
+Soy una persona con la capacidad de entener y transmitir ideas de forma clara y consiza en inglés. Actualmente me encutro finalizando el nivel B1. 
+
+[Certificado Inglés A1](https://github.com/thePanaMiguel09/thePanaMiguel09/blob/main/Miguel%20Angel%20Chavez%20Barrera%20A1.pdf)
+
+[Certificado Inglés A2](https://github.com/thePanaMiguel09/thePanaMiguel09/blob/main/Miguel%20Angel%20Chavez%20Barrera%20%20A2.pdf)
